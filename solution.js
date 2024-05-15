@@ -26,3 +26,5 @@ form.addEventListener("submit", (event) => {
     console.error("An unexpected error occurred:", error);
   }
 });
+
+document.get
